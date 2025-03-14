@@ -4,7 +4,7 @@ A modern and interactive lucky draw system built with Next.js and TailwindCSS. P
 
 Try it now ➡️ https://v0-running-code.vercel.app/
 
-![Image Alt]([image_url](https://github.com/hisham86/lucky-draw/blob/f974c4b0fc1a248e65434d1ca4eb6962538b60e8/lucky.jpeg))
+![Image Alt](https://github.com/hisham86/lucky-draw/blob/4d0034f4e06c8d9e9dc3acd4e78a12b2018cb478/lucky.jpeg)
 
 ## Features
 
