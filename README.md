@@ -2,6 +2,8 @@
 
 A modern and interactive lucky draw system built with Next.js and TailwindCSS. Perfect for events, giveaways, and random selections with a beautiful user interface and smooth animations.
 
+Try it now ➡️ https://v0-running-code.vercel.app/
+
 ## Features
 
 - 🎯 **Interactive Draw System**: Engaging animation during the draw process
